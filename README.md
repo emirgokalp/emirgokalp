@@ -8,7 +8,6 @@
 - 🔭 I’m currently studying at [Istanbul Bilgi University](https://www.bilgi.edu.tr/en/) as a first year Computer Engineering student.
 - 💬 Ask me about **Java, Python and NodeJS**
 - 📫 How to reach me: [@emirgokalp](https://www.linkedin.com/in/emirgokalp/) on Linkedin
-- ⚡ Fun fact: Big Fan of the :zap: emoji
 
 -------
 
