@@ -15,8 +15,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java             14 mins               █████████████████████████   99.87 %
-GitIgnore file   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Java             1 min                 ████████████████████████▓   99.03 %
+GitIgnore file   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
