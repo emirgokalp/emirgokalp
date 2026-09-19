@@ -5,7 +5,7 @@
 </p>
 
 
-- 🔭 I’m currently a **first-year** Computer Engineering Student at [Istanbul Bilgi University](https://www.bilgi.edu.tr/en/)
+- 🔭 I’m currently a **second-year** Computer Engineering Student at [Istanbul Bilgi University](https://www.bilgi.edu.tr/en/)
 - 💬 Ask me about **Java, Python and NodeJS**
 - 📫 How to reach me: [@emirgokalp](https://www.linkedin.com/in/emirgokalp/) on Linkedin
 
